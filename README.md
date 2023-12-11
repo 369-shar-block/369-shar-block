@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Tushar Saini!
-- 👀 I’m interested in web3/blockchain, Web Dev
-- 🌱 I’m currently learning blockchain development
-- 💞️ I’m looking to collaborate on Tensor Flow
 - 📫 How to reach me -> 369shar@gmail.com
 
 <!---
